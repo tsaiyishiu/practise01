@@ -137,6 +137,7 @@ span{
 
 .container3{
     vertical-align: top;
+    font-size: 0;
 }
 
 
@@ -146,13 +147,21 @@ span{
     margin: auto;
 }
 footer{
-    height: 80px;
+    padding:20px 0 20px ;
     margin-top: -50px;
     background-color: #EEEEEE;
+    
     }
 footer>p{
-    margin-left: 30px;
-    margin-top: 30px;
+    width: 50%;
+    display: inline-block;
+    font-size: 10px;
 }    
- 
+.soshow{
+    width: 50%; 
+    display: inline-block;
+    text-align: right;
+    font-size: 10px;
+}
+
  
